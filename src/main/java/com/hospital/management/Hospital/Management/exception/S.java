@@ -1,4 +1,4 @@
 package com.hospital.management.Hospital.Management.exception;
 
-public class C {
+public class S {
 }
